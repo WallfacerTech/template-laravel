@@ -1,0 +1,9 @@
+{
+  "name": "Laravel",
+  "description": "Full-stack PHP with Laravel 12, Inertia.js, and React",
+  "tags": ["php", "full-stack", "api", "inertia", "react"],
+  "language": "php",
+  "testCommand": "php artisan test",
+  "updateCommand": "composer update",
+  "devCommand": "php artisan serve"
+}
